@@ -14,6 +14,7 @@ App Store
 Ars Technica
 Ashley Madison
 Asus
+ATM Machine
 Authy
 Beats by Dre
 Beme
@@ -33,6 +34,7 @@ Canadian Tire
 Canon
 Canonical
 Canva
+Car Wash
 Chevrolet
 Coca-Cola
 Chick-fil-A
@@ -115,6 +117,7 @@ LinkedIn
 LinkedIn
 L'Oréal
 Lyft
+Lynda.com
 MasterCard
 Mathematics
 McDonald's
@@ -142,11 +145,14 @@ Nokia
 Nutella
 NY Times
 OnePlus
+Open Source
+Operating System
 Palm Pilots
 Pandora
 Pandora
 Pandora
 Patreon
+PCPartPicker
 Periscope
 Pinterest
 Pinterest
@@ -194,6 +200,7 @@ Tidal
 Tinder
 Tor
 Toyota
+Transportation
 Trello
 Tumblr
 TwitchTV
@@ -220,6 +227,7 @@ Waze
 Wealthfront
 WeWork
 Whatsapp
+WhiteBoard
 Xerox
 Xiaomi
 Yahoo Answers
