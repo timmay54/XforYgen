@@ -3,9 +3,9 @@ Actors
 Adjunct professors
 Agile
 Airplanes
-amateur DJs
-antique collectors
-babies
+Amateur DJs
+Antique collectors
+Babies
 Backpacking
 Barbeques
 Bars
@@ -20,7 +20,7 @@ Blogging
 Blood
 Board gamers
 Board games
-boats
+Boats
 Bottles
 Boxers
 Burgers
@@ -45,11 +45,12 @@ Computer Science Students
 Condiments
 Corporate culture
 Cowpokes
+Crops
 Crowbars
 Criminals
 Cycling
 Dancing
-Democracts
+Democrats
 Dentists
 Designers
 Dictionary
@@ -62,28 +63,29 @@ Dog Walkers
 Donald Trump
 Drug dealers
 Edibles
-encyclopedias
+Encyclopedias
 Elbow licking
-ethnic lesbians
+Ethnic lesbians
 Failing department stores
-failing newspaper companies
+Failing newspaper companies
+Farmers
 Fathers
 Flowers
-football fans
+Football fans
 Frat boys
 Frat parties
 French Fries
 Frost bite
 Fruits
-furniture
+Furniture
 Gamers
 Gaming
-gardeners
+Gardeners
 Gifts
 Giraffes
 Glasses
 Global warming
-grandmothers
+Grandmothers
 Grandparents
 Gym Rats
 Hairdressers
@@ -97,17 +99,17 @@ High school yearbooks
 Hippies
 Honey
 Hipsters
-huffing glue
+Huffing glue
 Hungry child
 Ice cream
 Iced coffee
-illegal Minecraft servers
+Illegal Minecraft servers
 Increase in humidity
 Incubators
 Interior Decorating
-jocks
+Jocks
 Jungle juice
-keychains
+Keychains
 Lawyers
 Learners
 Lenses
@@ -128,32 +130,33 @@ Musicians
 Music festivals
 Novels
 Nurses
-old people that refuse to use computers
+Old people that refuse to use computers
 Online Shoppers
 Orthodontists
 Pajamas
 Parents
 Partners
-people that attend tech-crunch
+People that attend tech-crunch
 People walking
-people with hemorrhoids
+People with hemorrhoids
 People with pools
 Prescription pills
-pets
+Pets
 Photographers
-pirated movies
+Pirated movies
 Playing Cards
 Priests
 Podcasts
-pools
+Pools
 Practicing vegans
-project managers
+Project managers
 Prom dresses
-public bath rooms
+Public bath rooms
 Programmers
 Random Facebook friends
+Rappers
 Real estate
-religiously watching Shark Tank
+Religiously watching Shark Tank
 Republicans
 Road trips
 Roadmen
@@ -167,22 +170,22 @@ Skull Candy
 Slushes
 Sneaking onto private rooftops
 Software developers
-souvenir shot glasses
-spelunking
-stealing other people's Netflix accounts
-stoners
+Souvenir shot glasses
+Spelunking
+Stealing other people's Netflix accounts
+Stoners
 Streamers
-students
+Students
 Students orgs
 Teenagers
 Thanksgiving Dinners
-the Amish
+The Amish
 The Elderly
 The Illuminati
 Thrift stores
 Tiny homes
 Toddlers
-toilet paper
+Toilet paper
 Top ten of your high school
 tote bags
 Townhomes
@@ -194,16 +197,17 @@ Undergraduates
 University
 Vegans
 Vegetables
-venture capitalists
+Venture capitalists
 Veterans
 Vinyl
 Vloggers
 Warehouses
 Washed up quarterbacks
 Washing Machines
-watches
+Watches
 Websites
 Weed
 Wrestling
 Youtubers
 Zebras
+Zebus
